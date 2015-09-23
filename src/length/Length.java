@@ -16,7 +16,7 @@ public abstract class Length implements Comparable<Length> {
     /**
      * Store the length in this Length.
      * @param length
-     */
+     */ 
     public Length(double length) {
         this.length = length;
     }
